@@ -1,1 +1,3 @@
-This is the reporsitory for IBM data science project
+# IBM-Data-Science project
+
+This is the repository for IBM-Data-Science project.
